@@ -8,11 +8,11 @@ GEM
       coffee-script-source
       execjs
     coffee-script-source (1.7.0)
-    execjs (2.0.2)
+    execjs (2.9.1)
     filewatcher (0.3.2)
       trollop (>= 1.16.2)
     hike (1.2.3)
-    json (1.8.1)
+    json (2.7.2)
     multi_json (1.8.4)
     rack (1.5.2)
     rake (10.1.1)
@@ -25,7 +25,7 @@ GEM
     thor (0.18.1)
     tilt (1.4.1)
     trollop (2.0)
-    uglifier (2.4.0)
+    uglifier (2.7.2)
       execjs (>= 0.3.0)
       json (>= 1.8.0)
 
